@@ -7,5 +7,5 @@ A simple Flappy Bird game with Lua and Love 2d Engine
 
 Alternate option :
 - Run the conf.lua file to configure the game/love file.
-- Open the main.lua file and run it on the Love 2d engine.
+- Open the main.lua file and run it on [LÖVE](https://love2d.org/).
 - Press any key to flap and avoid the obstacles(pipes).
